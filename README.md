@@ -1,9 +1,19 @@
 # Project: Udacity:Programming Foundations with Python:MovieTrailer
-Movie trailer website, takes a list of movies and displays them in a nicer UI
+Movie Trailer Website Project is a part of Udacity "Full Stack Web Developer Nanodegree"
+
+
+#Environment
+You'll need the following for your development environment:
+Python
+
+#Screenshots form the site
+
+ <img src="1.png">
+ <img src="2.png">
 
 #Instruction to run this program
 
-1. Install python 2.7 or above
-2. Clone this project and change the directory to MovieTrailerWebSite
-3. Run the program as below
-`python entertainment_center.py`
+1. Install python 2.7
+2. Go to cmd and write this command  python entertainment.py 
+NOTE:
+you must add python to environment variable to run the pervious command from cmd
