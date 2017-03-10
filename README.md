@@ -1,10 +1,12 @@
 # Project: Udacity:Programming Foundations with Python:MovieTrailer
 Movie Trailer Website Project is a part of Udacity "Full Stack Web Developer Nanodegree"
 
+#About
+this project you can watch trailers of my favorite movies the back-end is written in python and the layout i use html , css , bootstrap and javascript .
 
 #Environment
 You'll need the following for your development environment:
-Python
+Python.
 
 #Screenshots form the site
 
