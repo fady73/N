@@ -14,6 +14,6 @@ Python
 #Instruction to run this program
 
 1. Install python 2.7
-2. Go to cmd and write this command  python entertainment.py 
-NOTE:
+2. Go to cmd and write this command  python entertainment.py <br>
+NOTE:<br>
 you must add python to environment variable to run the pervious command from cmd
